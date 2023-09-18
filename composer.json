@@ -1,18 +1,16 @@
 {
-    "name": "retailcrm/api-client-php",
-    "description": "PHP client for RetailCRM API",
+    "name": "alanaftwork/simla-api-php",
+    "description": "PHP client for API",
     "type": "library",
     "keywords": [
-        "API",
-        "RetailCRM",
-        "REST"
+        "API"
     ],
-    "homepage": "http://www.retailcrm.pro/",
+    "homepage": "http://www.test.pro/",
     "license": "MIT",
     "authors": [
         {
-            "name": "RetailCRM",
-            "email": "support@retailcrm.pro"
+            "name": "alanaftwork",
+            "email": "alanaftwork@gmail.com"
         }
     ],
     "require": {
@@ -83,7 +81,7 @@
         "models": "@php bin/retailcrm-client models:generate --all"
     },
     "support": {
-        "email": "support@retailcrm.pro"
+        "email": "support@alan.pro"
     },
     "autoload": {
         "psr-4": {
