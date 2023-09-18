@@ -85,13 +85,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SimlaCrm\\Api\\": "src/"
+            "RetailCrm\\Api\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SimlaCrm\\TestUtils\\": "tests/utils/",
-            "SimlaCrm\\Tests\\": "tests/src/"
+            "RetailCrm\\TestUtils\\": "tests/utils/",
+            "RetailCrm\\Tests\\": "tests/src/"
         }
     },
     "bin": [
